@@ -52,10 +52,7 @@ To perform **exploratory data analysis (EDA)** on a coffee shop’s sales datase
 
 ## 📈 Sample Visualizations
 
-*(Add visuals/screenshots here, e.g., sales trends, heatmaps, bar charts)*
-
-> 📌 _Pro Tip: Upload image files in the GitHub repo and use `![Alt Text](path/to/image.png)` to display them._
-
+![Sales Chart](https://raw.githubusercontent.com/anant480/Coffee_Shop_Sales/master/Coffee%20Shop%20Sale.png)
 ---
 
 ## 💡 Insights & Recommendations
