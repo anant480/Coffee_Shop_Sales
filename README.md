@@ -77,3 +77,16 @@ To perform **exploratory data analysis (EDA)** on a coffee shop’s sales datase
 
 ## 📂 Folder Structure
 
+| **File/Folder**                        | **Description**                                       |
+|----------------------------------------|-------------------------------------------------------|
+| **Coffee Shop Sales.xlsx**             | Raw data file (original dataset)                      |
+| **Coffee Shop Sales Project.xlsx**     | Final cleaned and analyzed data with visualizations   |
+| **Coffee Shop Sales Analysis.pdf**     | PDF report with business insights and recommendations |
+| **Coffee Shop Sale.png**               | Chart image used in README                            |
+| **README.md**                          | Project documentation                                 |
+| **requirements.txt** *(Optional)*      | If using Python to supplement Excel work              |
+
+
+
+
+
